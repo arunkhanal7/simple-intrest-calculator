@@ -38,6 +38,7 @@ const App=()=> {
       <br></br> <Typography variant="h5" gutterBottom>
         Simple Intrest Is: {si}
       </Typography>
+      <div>\hello</div>
     </Box>
     </div>
   );
